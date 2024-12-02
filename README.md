@@ -4,7 +4,7 @@
 ###
 
 
-- 🌱 Atualmente estou aprendendo sobre **Java,SpringBoot, Javascript e React.**
+- 🌱 Atualmente estou aprendendo sobre **Next.js, Typescrit e Golang**
 
 
 ###
