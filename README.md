@@ -4,7 +4,7 @@
 ###
 
 
-- 🌱 Atualmente estou aprendendo sobre **Next.js, Typescrit e Golang**
+- 🌱 Atualmente estou aprendendo sobre **Svelte, Typescrit e Golang**
 
 
 ###
