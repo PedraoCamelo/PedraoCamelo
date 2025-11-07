@@ -1,11 +1,27 @@
 <h1 align="center">Oi 👋, Tudo bem? Eu sou o Pedro Camelo</h1>
-<h3 align="center">Sou um estudante na área de desenvolvimento de software, sempre em busca de desafios que me façam crescer e aprender. Escolhi essa jornada porque aprecio a emoção de resolver problemas complexos e ver minhas ideias ganharem vida. Cada novo projeto é uma oportunidade para me reinventar e adquirir novos conhecimentos.</h3>
+<h3 align="center">Desenvolvedor Júnior e Tecnólogo em Análise e Desenvolvimento de Sistemas.</h3>
 
-###
+<p align="center">
+  Apaixonado por lógica e por transformar desafios complexos em soluções de código elegante. Minha trajetória profissional é focada em desenvolvimento Full-Stack, sempre buscando aprimorar a experiência do usuário e a performance do sistema.
+</p>
 
+---
 
-- 🌱 Atualmente estou aprendendo sobre **Svelte, Typescrit e Golang**
+### 💻 Minha Stack Principal e Experiência
 
+- **Desenvolvimento Web:** Atuação com stacks modernas, incluindo **Svelte/SvelteKit** e **React/Next.js**.
+- **Linguagens e Fundamentos:** Proficiência em **TypeScript** (Fortemente utilizado) e **JavaScript**.
+- **Dados:** Experiência prática com bancos de dados relacionais (**MySQL**) e NoSQL (**MongoDB**).
+- **Ferramentas:** **GitHub** (Versionamento e Colaboração), **Node.js** e ambientes **Ubuntu** (Suporte à infraestrutura).
+
+### 🌱 O que estou aprendendo
+
+- Atualmente focado em aprofundar conhecimentos em **Golang** para desenvolvimento Back-End robusto.
+- Buscando a maestria em **TypeScript** e explorando novas arquiteturas de código.
+
+### 🚀 Destaques da Trajetória
+
+Meu foco é aplicar minha experiência em ambientes ágeis, contribuindo ativamente para a entrega de projetos de alto impacto.
 
 ###
 
