@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Tudo bem? Eu sou o Pedro Camelo</h1>
-<h3 align="center">Desenvolvedor Júnior e Tecnólogo em Análise e Desenvolvimento de Sistemas.</h3>
+<h3 align="center">Desenvolvedor Junior</h3>
 
 <p align="center">
   Apaixonado por lógica e por transformar desafios complexos em soluções de código elegante. Minha trajetória profissional é focada em desenvolvimento Full-Stack, sempre buscando aprimorar a experiência do usuário e a performance do sistema.
