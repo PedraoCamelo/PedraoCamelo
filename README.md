@@ -16,7 +16,7 @@
 
 ### 🌱 O que estou aprendendo
 
-- Atualmente focado em aprofundar conhecimentos em **Golang** para desenvolvimento Back-End robusto.
+- Atualmente focado em aprofundar conhecimentos em **Python** para desenvolvimento Back-End robusto.
 - Buscando a maestria em **TypeScript** e explorando novas arquiteturas de código.
 
 ### 🚀 Destaques da Trajetória
